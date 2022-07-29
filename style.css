@@ -1,0 +1,14 @@
+/* container */
+.container {width: 1000px; margin: 0 auto; background: #ffffff;}
+
+/* row */
+.row {position: relative; margin: 0 20px;}
+
+/* header */
+.header {height: 100px; background: #6aa2cd;}
+
+#header .header-title {
+    font-weight: 600;
+    font-size: 32px;
+}
+
